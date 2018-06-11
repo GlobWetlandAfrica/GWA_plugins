@@ -1,0 +1,15 @@
+[submodule "qgis-processing-gpf"]
+	path = qgis-processing-gpf
+	url = https://github.com/DHI-GRAS/qgis-processing-gpf
+[submodule "qgis-processing-workflow"]
+	path = qgis-processing-workflow
+	url = https://github.com/DHI-GRAS/qgis-processing-workflow
+[submodule "qgis-processing-swat"]
+	path = qgis-processing-swat
+	url = https://github.com/DHI-GRAS/qgis-processing-swat
+[submodule "qgis-temporal-profile"]
+	path = qgis-temporal-profile
+	url = https://github.com/DHI-GRAS/qgis-temporal-profile
+[submodule "processing"]
+	path = processing
+	url = https://github.com/TIGER-NET/WOIS_processing.git
