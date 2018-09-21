@@ -16,9 +16,6 @@
 [submodule "simple-atmospheric-correction"]
 	path = atmospheric_correction
 	url = https://github.com/GlobWetlandAfrica/simple-atmospheric-correction.git
-[submodule "LecoS"]
-	path = LecoS
-	url = https://github.com/Martin-Jung/LecoS.git
 [submodule "pointsamplingtool"]
 	path = pointsamplingtool
 	url = https://github.com/borysiasty/pointsamplingtool.git
@@ -28,3 +25,6 @@
 [submodule "qgis-openlayers-plugin"]
 	path = openlayers_plugin
 	url = https://github.com/sourcepole/qgis-openlayers-plugin.git
+[submodule "LecoS"]
+	path = LecoS
+	url = https://github.com/Martin-Jung/LecoS.git
