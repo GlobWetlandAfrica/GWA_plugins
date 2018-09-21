@@ -2,7 +2,7 @@
 	path = processing_gpf
 	url = https://github.com/DHI-GRAS/qgis-processing-gpf
 [submodule "qgis-processing-workflow"]
-	path = qgis-processing-workflow
+	path = processing_workflow
 	url = https://github.com/DHI-GRAS/qgis-processing-workflow
 [submodule "qgis-processing-swat"]
 	path = processing_SWAT
