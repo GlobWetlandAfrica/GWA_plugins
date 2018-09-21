@@ -19,3 +19,6 @@
 [submodule "lecos"]
 	path = lecos
 	url = https://github.com/Martin-Jung/LecoS.git
+[submodule "pointsamplingtool"]
+	path = pointsamplingtool
+	url = https://github.com/borysiasty/pointsamplingtool.git
