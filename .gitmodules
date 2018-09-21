@@ -16,8 +16,8 @@
 [submodule "simple-atmospheric-correction"]
 	path = simple-atmospheric-correction
 	url = https://github.com/GlobWetlandAfrica/simple-atmospheric-correction.git
-[submodule "lecos"]
-	path = lecos
+[submodule "LecoS"]
+	path = LecoS
 	url = https://github.com/Martin-Jung/LecoS.git
 [submodule "pointsamplingtool"]
 	path = pointsamplingtool
