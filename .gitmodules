@@ -5,7 +5,7 @@
 	path = qgis-processing-workflow
 	url = https://github.com/DHI-GRAS/qgis-processing-workflow
 [submodule "qgis-processing-swat"]
-	path = qgis-processing-swat
+	path = processing_SWAT
 	url = https://github.com/DHI-GRAS/qgis-processing-swat
 [submodule "qgis-temporal-profile"]
 	path = qgis-temporal-profile
