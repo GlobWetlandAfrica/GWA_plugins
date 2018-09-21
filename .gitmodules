@@ -14,7 +14,7 @@
 	path = processing
 	url = https://github.com/TIGER-NET/WOIS_processing.git
 [submodule "simple-atmospheric-correction"]
-	path = simple-atmospheric-correction
+	path = atmospheric_correction
 	url = https://github.com/GlobWetlandAfrica/simple-atmospheric-correction.git
 [submodule "LecoS"]
 	path = LecoS
