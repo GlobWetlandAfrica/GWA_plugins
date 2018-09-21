@@ -26,5 +26,5 @@
 	path = valuetool
 	url = https://github.com/etiennesky/valuetool.git
 [submodule "qgis-openlayers-plugin"]
-	path = qgis-openlayers-plugin
+	path = openlayers_plugin
 	url = https://github.com/sourcepole/qgis-openlayers-plugin.git
