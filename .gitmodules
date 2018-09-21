@@ -1,5 +1,5 @@
 [submodule "qgis-processing-gpf"]
-	path = qgis-processing-gpf
+	path = processing_gpf
 	url = https://github.com/DHI-GRAS/qgis-processing-gpf
 [submodule "qgis-processing-workflow"]
 	path = qgis-processing-workflow
