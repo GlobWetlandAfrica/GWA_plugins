@@ -8,7 +8,7 @@
 	path = processing_SWAT
 	url = https://github.com/DHI-GRAS/qgis-processing-swat
 [submodule "qgis-temporal-profile"]
-	path = qgis-temporal-profile
+	path = temporalprofiletool
 	url = https://github.com/DHI-GRAS/qgis-temporal-profile
 [submodule "processing"]
 	path = processing
