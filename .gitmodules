@@ -10,9 +10,6 @@
 [submodule "pointsamplingtool"]
 	path = pointsamplingtool
 	url = https://github.com/borysiasty/pointsamplingtool.git
-[submodule "valuetool"]
-	path = valuetool
-	url = https://github.com/etiennesky/valuetool.git
 [submodule "qgis-openlayers-plugin"]
 	path = openlayers_plugin
 	url = https://github.com/sourcepole/qgis-openlayers-plugin.git
