@@ -16,3 +16,6 @@
 [submodule "LecoS"]
 	path = LecoS
 	url = https://github.com/Martin-Jung/LecoS.git
+[submodule "ThRasE"]
+	path = ThRasE
+	url = https://github.com/SMByC/ThRasE.git
