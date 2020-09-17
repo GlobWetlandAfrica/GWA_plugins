@@ -19,3 +19,6 @@
 [submodule "ThRasE"]
 	path = ThRasE
 	url = https://github.com/SMByC/ThRasE.git
+[submodule "qgis-processing-r"]
+	path = qgis-processing-r
+	url = https://github.com/north-road/qgis-processing-r.git
